@@ -1,10 +1,9 @@
-package com.simply.chat
+package com.project.cacaochat
 
 import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import java.security.MessageDigestSpi
 
 class ChatViewModel() : ViewModel() {
 private var _listOfMessages = MutableLiveData<MutableList<Message>>()

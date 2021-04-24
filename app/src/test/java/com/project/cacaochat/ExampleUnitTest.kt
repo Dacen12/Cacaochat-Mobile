@@ -1,4 +1,4 @@
-package com.simply.chat
+package com.project.cacaochat
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.simply.chat.socketConnection
+package com.project.cacaochat.socketConnection
 
 import io.socket.client.IO
 import io.socket.client.Socket

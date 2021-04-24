@@ -1,14 +1,12 @@
-package com.simply.chat
+package com.project.cacaochat
 
 import android.content.Intent
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.util.Log
 import android.widget.Button
 import android.widget.EditText
 import androidx.annotation.RequiresApi
-import com.simply.chat.socketConnection.SocketConnection
 import kotlinx.coroutines.FlowPreview
 
 

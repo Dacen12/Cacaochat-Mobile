@@ -1,4 +1,4 @@
-package com.simply.chat
+package com.project.cacaochat
 
 import android.annotation.SuppressLint
 import androidx.appcompat.app.AppCompatActivity
@@ -15,10 +15,9 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.beust.klaxon.Klaxon
 
-import com.simply.chat.databinding.ActivityChatBinding
-import com.simply.chat.socketConnection.SocketConnection
-import com.simply.chat.socketConnection.VMFactory
-import io.socket.client.Socket
+import com.project.cacaochat.databinding.ActivityChatBinding
+import com.project.cacaochat.socketConnection.SocketConnection
+import com.project.cacaochat.socketConnection.VMFactory
 import io.socket.emitter.Emitter
 import org.json.JSONException
 import org.json.JSONObject

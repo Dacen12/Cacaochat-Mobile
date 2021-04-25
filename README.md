@@ -19,3 +19,6 @@ And add port 3000. For example:
 `private var socket : Socket = IO.socket("http://localhost:3000/")` 
 
 The port on the server side is by default set to 3000. (Although this can be changed)                
+
+
+Here's a video gif of the application in action: https://imgur.com/a/oJmUvpi 
